@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { Route, Link } from 'react-router-dom'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import Articles from '../Articles/Articles'
 import Comments from '../Comments/Comments'
 import Pictures from '../Pictures/Pictures'
