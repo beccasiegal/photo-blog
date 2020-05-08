@@ -7,7 +7,7 @@ export default class AddArticle extends Component {
     return (
       <section className='AddArticle'>
         <h2>Add an Article</h2>
-        <Animals>
+        <Articles>
           <div className='field'>
             <label htmlFor='picture-url-input'>
               Image URL
