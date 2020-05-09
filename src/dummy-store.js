@@ -17,17 +17,16 @@ export default {
         'http://barnquiltinfo.com/map-US.html',
         'This is the first in a series of posts to come on inspiring folks.  Stay tuned!',
         
-]
-"comments": [ 'Great!', 'Becca', 'This is a great post about how different people look at the same thing', 1,),
-('Fascinating', 'Becca', 'What an interesting idea and way to get the community together', 2,);]
+],
 
-"pictures": [
-'Grand Canyon','https://imgur.com/FnsdWA4',
-'Barn Quilt', 'https://imgur.com/ZYrXGSt',
-'https://imgur.com/FnsdWA4',
-'https://imgur.com/sSDee79',
-'https://imgur.com/Zlq6K6Q',
-'https://imgur.com/dSBHZ7V',
-'https://imgur.com/ZYrXGSt'
-]
+"comments": {title: 'Great!', name: 'Becca', content: 'This is a great post about how different people look at the same thing', articleId: 1,
+title: 'Fascinating', name: 'Becca', content: 'What an interesting idea and way to get the community together', articleId: 2,},
+
+"pictures": {
+alttext: 'Grand Canyon', url: 'https://imgur.com/FnsdWA4',
+alttext: 'Barn Quilt', url: 'https://imgur.com/ZYrXGSt',
+url: 'https://imgur.com/sSDee79',
+url: 'https://imgur.com/Zlq6K6Q',
+url: 'https://imgur.com/dSBHZ7V',
+}
 }

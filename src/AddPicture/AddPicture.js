@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import pictures from '../pictures/pictures'
+import Pictures from '../Pictures/Pictures'
 
 
 export default class AddPicture extends Component {

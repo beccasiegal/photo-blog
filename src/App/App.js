@@ -84,7 +84,7 @@ class App extends Component {
               const { articleId } = routeProps.match.params
               const  comments = (comments, articleId)
               return (
-                <Names
+                <Pictures
                   {...routeProps}
                   comments={comments}
                 />
@@ -104,7 +104,7 @@ class App extends Component {
             return (
               <AddPicture
                 {...routeProps}
-                articles={article}
+                articles={articles}
               />
             )
           }}
